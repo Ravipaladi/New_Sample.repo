@@ -1,2 +1,4 @@
-Readme file added from GITHub Gui
-Adding new file for diff
+a=1
+b=2
+c=3
+
